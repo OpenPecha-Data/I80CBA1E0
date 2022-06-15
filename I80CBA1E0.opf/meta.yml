@@ -1,0 +1,25 @@
+id: I80CBA1E0
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:19:01.381131'
+last_modified: '2022-06-15T20:19:01.381142'
+parser: null
+source_metadata:
+  title: Acala Series
+  language: en
+  description: 'Texts related to Acala (mi g.yo ba), the ‘Immovable One’, a wrathful
+    deity who is also known as Caṇḍamahāroṣaṇa:'
+  volume:
+    fBC88:
+      title: Acala Sādhana
+      base_file: fBC88.txt
+      order: 1
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
